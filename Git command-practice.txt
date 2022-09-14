@@ -1,0 +1,21 @@
+git config --list
+git clone
+
+cd pathdirectory
+
+git status - for file nd folders check
+git add .
+git commit -m ""
+git pust
+
+///////////////////
+
+git - direct file upload
+
+git init    - initialize the repo
+git remote add origin https://github.com/divyeshbhuva92/secondRepoforpractice.git
+
+git status - for file nd folders check
+git add .
+git commit -m ""
+git pust
